@@ -1,0 +1,48 @@
+[
+  {
+    "id": "ord-4080",
+    "customerName": "tf",
+    "customerPhone": "987y6tre45",
+    "address": "gtfvdc",
+    "items": [
+      {
+        "id": "prod-2",
+        "name": "Samsung Galaxy S24 Ultra 512GB - Titanium Black",
+        "category": "Full Phone",
+        "price": 1299,
+        "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?auto=format&fit=crop&w=800&q=80",
+        "stockStatus": "In Stock",
+        "stock": 8,
+        "description": "Galaxy AI integrated, 200MP camera, Snapdragon 8 Gen 3, S-Pen included.",
+        "createdAt": "2026-09-05T11:48:30.079Z",
+        "quantity": 1
+      }
+    ],
+    "totalAmount": 1299,
+    "status": "Bajarildi",
+    "notes": "frdc",
+    "telegramSent": true,
+    "createdAt": "2026-09-05T11:53:34.081Z",
+    "updatedAt": "2026-09-05T11:54:07.839Z"
+  },
+  {
+    "id": "ord-1001",
+    "customerName": "Jasur Bek",
+    "customerPhone": "+998 90 123 45 67",
+    "address": "Toshkent sh., Chilonzor 19-mavze, 12-uy",
+    "items": [
+      {
+        "id": "prod-3",
+        "name": "OLED Display Screen Assembly - iPhone 14 Pro",
+        "price": 185,
+        "quantity": 1
+      }
+    ],
+    "totalAmount": 185,
+    "status": "Bajarildi",
+    "notes": "Iltimos, tezroq yetkazib bering",
+    "telegramSent": true,
+    "createdAt": "2026-09-05T07:48:30.080Z",
+    "updatedAt": "2026-09-05T11:51:33.231Z"
+  }
+]

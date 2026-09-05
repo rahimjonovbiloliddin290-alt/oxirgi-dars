@@ -1,0 +1,20 @@
+[
+  {
+    "id": "user-admin",
+    "name": "TechFix Administrator",
+    "email": "admin@telefon.com",
+    "password": "telefon123",
+    "role": "admin",
+    "phone": "+998 94 034 71 71",
+    "createdAt": "2026-09-05T11:48:30.080Z"
+  },
+  {
+    "id": "user-client-1",
+    "name": "Jasur Bek",
+    "email": "jasur@gmail.com",
+    "password": "user123",
+    "role": "client",
+    "phone": "+998 90 123 45 67",
+    "createdAt": "2026-09-05T11:48:30.080Z"
+  }
+]
