@@ -1,5 +1,84 @@
 [
   {
+    "id": "ord-4706",
+    "customerName": "TechFix Administrator",
+    "customerPhone": "+998 94 034 71 71",
+    "address": "Do'kondan olib ketish",
+    "items": [
+      {
+        "id": "prod-2",
+        "name": "Samsung Galaxy S24 Ultra 512GB - Titanium Black",
+        "category": "Full Phone",
+        "price": 1199,
+        "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?auto=format&fit=crop&w=800&q=80",
+        "stockStatus": "In Stock",
+        "stock": 8,
+        "description": "Galaxy AI integrated, 200MP camera, Snapdragon 8 Gen 3, S-Pen included.",
+        "createdAt": "2026-09-05T11:48:30.079Z",
+        "updatedAt": "2026-09-06T03:59:21.832Z",
+        "quantity": 1
+      },
+      {
+        "id": "prod-3",
+        "name": "OLED Display Screen Assembly - iPhone 14 Pro",
+        "category": "Display",
+        "price": 185,
+        "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=800&q=80",
+        "stockStatus": "In Stock",
+        "stock": 25,
+        "description": "Original Super Retina XDR OLED display with Dynamic Island IC support.",
+        "createdAt": "2026-09-05T11:48:30.079Z",
+        "quantity": 2
+      },
+      {
+        "id": "prod-1",
+        "name": "iPhone 15 Pro Max 256GB - Titanium Natural",
+        "category": "Full Phone",
+        "price": 1299,
+        "image": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?auto=format&fit=crop&w=800&q=80",
+        "stockStatus": "In Stock",
+        "stock": 23,
+        "description": "A17 Pro chip, titanium design, 48MP main camera system, Type-C USB 3 speeds.",
+        "createdAt": "2026-09-05T11:48:30.076Z",
+        "updatedAt": "2026-09-05T14:52:24.136Z",
+        "quantity": 2
+      }
+    ],
+    "totalAmount": 4167,
+    "status": "Bajarildi",
+    "notes": "",
+    "telegramSent": true,
+    "createdAt": "2026-09-06T06:37:04.706Z",
+    "updatedAt": "2026-09-06T06:37:43.279Z"
+  },
+  {
+    "id": "ord-7752",
+    "customerName": "ibrohimr",
+    "customerPhone": "+998 95 943 45 36",
+    "address": "Do'kondan olib ketish",
+    "items": [
+      {
+        "id": "prod-1",
+        "name": "iPhone 15 Pro Max 256GB - Titanium Natural",
+        "category": "Full Phone",
+        "price": 1299,
+        "image": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?auto=format&fit=crop&w=800&q=80",
+        "stockStatus": "In Stock",
+        "stock": 23,
+        "description": "A17 Pro chip, titanium design, 48MP main camera system, Type-C USB 3 speeds.",
+        "createdAt": "2026-09-05T11:48:30.076Z",
+        "updatedAt": "2026-09-05T11:55:29.011Z",
+        "quantity": 1
+      }
+    ],
+    "totalAmount": 1299,
+    "status": "Bajarildi",
+    "notes": "",
+    "telegramSent": true,
+    "createdAt": "2026-09-05T14:13:07.752Z",
+    "updatedAt": "2026-09-05T14:13:18.850Z"
+  },
+  {
     "id": "ord-4080",
     "customerName": "tf",
     "customerPhone": "987y6tre45",

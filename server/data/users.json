@@ -16,5 +16,41 @@
     "role": "client",
     "phone": "+998 90 123 45 67",
     "createdAt": "2026-09-05T11:48:30.080Z"
+  },
+  {
+    "id": "user-1788616918475",
+    "name": "ibrohim",
+    "email": "ibrohim@gmail.com",
+    "password": "ibrohim",
+    "role": "client",
+    "phone": "+998 95 943 45 32",
+    "createdAt": "2026-09-05T14:01:58.475Z"
+  },
+  {
+    "id": "user-1788617477654",
+    "name": "ibrohimr",
+    "email": "ibrohi5@gmail.com",
+    "password": "ibrohime",
+    "role": "client",
+    "phone": "+998 95 943 45 36",
+    "createdAt": "2026-09-05T14:11:17.655Z"
+  },
+  {
+    "id": "user-1788617580406",
+    "name": "ibrohimr",
+    "email": "ibrohim55@gmail.com",
+    "password": "ibrohim4",
+    "role": "client",
+    "phone": "+998 95 943 45 36",
+    "createdAt": "2026-09-05T14:13:00.406Z"
+  },
+  {
+    "id": "user-1788676830754",
+    "name": "biloliddin rahimjonov",
+    "email": "234567@gmail.com",
+    "password": "bsdfc",
+    "role": "client",
+    "phone": "098765433",
+    "createdAt": "2026-09-06T06:40:30.754Z"
   }
 ]
